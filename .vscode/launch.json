@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Programming/summer-bootcamp-2026/DSA/Day 2 - 27 May",
-      "program": "d:/Programming/summer-bootcamp-2026/DSA/Day 2 - 27 May/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
