@@ -1,0 +1,18 @@
+
+------------------------
+bit manipulation
+two pointer
+sliding window
+hashing
+dutch national flag algorithm
+
+---------------------------------
+Practice Questions:
+
+1- Leaders in an array
+2- Spiral traversal of matrix
+3- Longest consecutive increasing subarray
+4- frequency sort
+5- Diagonal Difference in Matrix
+6- Rotate matrix by 180
+7- sort 0s, 1s, and 2s
