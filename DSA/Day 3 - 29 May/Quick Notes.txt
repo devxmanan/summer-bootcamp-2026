@@ -13,3 +13,6 @@ Practice Questions:
 9- Longest Substring without repeating Characters
 10- Minimum Window Substring
 11- Valid Parenthesis (Through String)
+
+Bonus:
+kmp, rabin-karp, Z Algorithm, Shortest Palindrome
