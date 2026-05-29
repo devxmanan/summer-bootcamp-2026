@@ -15,7 +15,11 @@ Fast & Slow Pointer     ->  One moves faster than other
 ------------------------------------------------------------------------------------------------------------
 
 sliding window
-hashing
+
+------------------------------------------------------------------------------------------------------------
+
+hashing: Hashing is a technique used to store and retrieve data quickly by converting a key into an index (address) using a hash function.
+Instead of searching through the entire data structure, hashing directly computes where the data should be stored.
 
 --------------------------------------------------------------------------------------------------------------
 
