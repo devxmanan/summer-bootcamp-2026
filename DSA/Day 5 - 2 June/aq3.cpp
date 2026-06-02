@@ -1,5 +1,14 @@
 // Remove a node at a given position of a circular linked list
 
+//Pseudocode:
+// if pos>N: 
+//     print -1
+// if pos == 1:
+//     delete head
+// else: 
+//     move to pos-1
+//     temp->next = temp->next->next;
+// print list
 
 #include <iostream>
 using namespace std;
