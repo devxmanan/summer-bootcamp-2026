@@ -50,3 +50,16 @@
 42- Count the nodes in a singly linked list
 43- Remove a node at a given position of a circular linked list
 44- Reverse a doubly Linked List
+
+45- Remove Kth Node from a linked list
+46- Count nodes in a linked list
+47- Count Occurence of an element in a linked list
+48- Remove duplicates from a sorted linked list.
+49- Convert Singly Linked List to Circular Linked List.
+50- Detect Loop or cycle in Linked List
+51- Check if Linked List is Palindrome or not
+52- Addition of two linked list
+53- Cloning of a Linked List
+54- Flattening a Linked List
+55- Merge two linked list
+56- Group wise merge
