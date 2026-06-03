@@ -63,3 +63,16 @@
 54- Flattening a Linked List
 55- Merge two linked list
 56- Group wise merge
+
+57- Reverse the given linked list and rearrange elements with even elements first and then odd elements.
+58-
+59-
+60-
+
+61- Fraction Knapsack Problem
+62- Rod Cutting Algorithm
+63- House Robber Problem
+64- Coin Change
+65- Largest Sum Contiguous Subarray (LSCS)
+66- N-sum in array
+67- Trapping Rain Water Problem

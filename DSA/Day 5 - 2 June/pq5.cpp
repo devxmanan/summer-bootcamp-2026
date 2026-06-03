@@ -55,7 +55,6 @@ int main() {
     }
 
     convertToCircular();
-    // Display twice the length to demonstrate circular behavior
     displayCircular(2 * n);
 
     return 0;
