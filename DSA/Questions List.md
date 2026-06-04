@@ -76,3 +76,30 @@
 65- Largest Sum Contiguous Subarray (LSCS)
 66- N-sum in array
 67- Trapping Rain Water Problem
+
+68-
+69-
+70-
+71-
+
+72- Stack implementation using Array and Linked List
+73- Queue implementation using Array and Linked List
+74- Valid Parenthesis (Through Stack)
+75- Infix, prefix and postfix implementation and conversion
+76- Next Greater Element
+77- Stock Span Problem
+78- Implementation of min stack
+79- Implementation of a queue using stack
+80- Implementation of a stack using queue
+81- Sliding Window Maximum
+82- First negative in a window
+83- Celebrity Problem
+84- Largest Rectangle in a Histogram
+85- Trapping Rain Water Problem
+86- Generate Binary Numbers from 1 to N using Queue
+87- Sort a stack using another stack
+88- Delete middle element of a stack
+89- Implement two stacks in an array
+90- Reverse first k elements of a queue
+91- Reverse a string using stack
+92- Implement N-stacks in an array
