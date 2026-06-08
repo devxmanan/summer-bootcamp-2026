@@ -1,6 +1,7 @@
 //Find next permutation of a given string without using inbuilt function
 
-#include <iostream>
+#include <iostream> 
+#include <algorithm>
 using namespace std;
 
 int main(){

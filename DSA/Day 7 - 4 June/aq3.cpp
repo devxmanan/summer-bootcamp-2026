@@ -10,6 +10,15 @@ using namespace std;
 # define SIZE 5
 int q[SIZE];
 int front = -1, rear = -1;
+
+bool isFull(){
+    return (rear + 1) % SIZE == front;
+}
+
+bool isEmpty(){
+    return front == -1;
+}
+
 void enqueue(int x){
     if(isFull()){
         cout<<"Queue is full"<<endl;
@@ -50,13 +59,6 @@ void display(){
     cout<<q[rear]<<endl;
 }
 
-bool isFull(){
-    return (rear + 1) % SIZE == front;
-}
-
-bool isEmpty(){
-    return front == -1;
-}
 
 int main(){
     int choice,x;

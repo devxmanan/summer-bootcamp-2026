@@ -9,7 +9,7 @@ struct Node {
 };
 Node *head = NULL;
 Node *evenHead, *oddHead, *evenTail, *oddTail;
-evenhead = oddHead = evenTail = oddTail = NULL;
+evenHead = oddHead = evenTail = oddTail = NULL;
 
 void insertNode(){
     Node *newNode = new Node();

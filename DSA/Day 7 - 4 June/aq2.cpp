@@ -1,3 +1,5 @@
+//Reverse each word in a string 
+
 #include <iostream>
 #include <stack>
 #include <vector>
